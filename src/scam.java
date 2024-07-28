@@ -5,7 +5,7 @@ public class scam {
         Scanner king = new Scanner(System.in);
         System.out.println("Enter your name");
         String name = king.nextLine();
-        System.out.println("Entered name is"+ " "+name);
+        System.out.println("Entered name is "+name);
 
     }
 }
